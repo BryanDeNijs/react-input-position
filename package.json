@@ -37,8 +37,8 @@
     "publish-demo": "npm run build && npm run deploy"
   },
   "peerDependencies": {
-    "react": "^16.3.0",
-    "react-dom": "^16.3.0"
+    "react": "^16.3.0 || ^17.0.0",
+    "react-dom": "^16.3.0 || ^17.0.0"
   },
   "devDependencies": {
     "@babel/cli": "^7.12.1",
